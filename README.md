@@ -2,7 +2,7 @@
 
 # 로그인 인증,인가 
 
-Spring Security기반으로 개발되었습니다 
+Spring Security기반으로 개발되었습니다  
 
 JWT 를 활용한 인증, 인가를 진행합니다 
 
