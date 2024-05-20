@@ -35,3 +35,6 @@ http://222.116.135.206:8080/docs/index.html 로 접속하면 API 명세서를 �
 # 작업 필요한 부분 
 - SSE를 활용하여 서버에서 -> 게이트웨이로 데이터를 전송하여 기기별 퇴치 메소드를 실행시키는 코드를 추가할 예정입니다
 - 현재 퇴치 소리관련 api가 작성되지 않는 상태입니다. 퇴치소리를 저장하고 학습을 시켜도 서버에서 퇴치 기기로 소리를 전달하는 부분이 아직 확정되지 않아서 설계 완료후 진행할 예정입니다.
+
+
+Swagger를 통한 API문서 구현하기: https://velog.io/@minwest/Springdoc%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-Swagger-%EC%82%AC%EC%9A%A9%EB%B2%95feat.-SpringBoot-3.x.x
